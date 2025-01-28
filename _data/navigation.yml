@@ -28,22 +28,28 @@
       url: /login
     - text: Signup
       url: /signup
-- text: Services
-  url: /#
+- text: Smartpick
+  url: /smartpick
   submenu:
-    - text: Services 01
-      url: /all-services
-    - text: Services 02
-      url: /all-services-02
-    - text: Service Details
-      url: /service/digital-marketing/
-- text: Projects
-  url: /#
-  submenu:
-    - text: Projects 01
-      url: /all-projects
+    - text: API
+      url: /smartpick/api
+    - text: Documentation
+      url: /smartpick/documentation
+    - text: Tutorials
+      url: /smartpick/tutorials
     - text: Project Details
-      url: /project/mobile-apps/
+      url: /smartpick/details/
+- text: IMR
+  url: /imr
+  submenu:
+    - text: API
+      url: /imr/api
+    - text: Documentation
+      url: /imr/documentation
+    - text: Tutorials
+      url: /imr/tutorials
+    - text: Project Details
+      url: /imr/details/
 - text: Blog
   url: /#
   submenu:
